@@ -1,3 +1,4 @@
+![logo](https://github.com/Prakhar682/Prakhar682/blob/main/Screenshot%202024-03-02%20162911.png)
 <h1 align="center">Hi 👋, I'm Prakhar Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
