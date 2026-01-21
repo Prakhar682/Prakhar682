@@ -1,6 +1,6 @@
 ![logo](https://github.com/Prakhar682/Prakhar682/blob/main/Screenshot%202024-03-02%20162911.png)
 <h1 align="center">Hi 👋, I'm Prakhar Tyagi</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://luatgiale.vn/wp-content/uploads/2019/09/sales-manager-dl.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakhar682&label=Profile%20views&color=0e75b6&style=flat" alt="prakhar682" /> </p>
